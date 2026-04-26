@@ -1,13 +1,12 @@
+<!DOCTYPE html>
 <html>
-    <head>
-        <title>my web site</title>
-    </head>
-    <body>
-        <h1>welcome to my web site </h1> <br>
-        <input type="text" name="name" id="" placeholder="type your name"><br>
-        <input type="password" placeholder="your password"> <br>
-        <input type="gmail" placeholder="type your gmail here"> <br>
-        <input type="submit"> <br>
-        <h4> goodbye we'll see you after we hope</h4>
-    </body>
+  <head>
+    <meta http-equiv="refresh" content="0; url=https://lumbala.net" />
+    <script>
+      window.location.href = "https://lumbala.net";
+    </script>
+  </head>
+  <body>
+    <p>Redirection vers mon portfolio...</p>
+  </body>
 </html>
